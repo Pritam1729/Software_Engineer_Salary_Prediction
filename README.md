@@ -7,8 +7,8 @@
 
 
 Result:
-country = India
-Education = Bachelors
+country = India,
+Education = Bachelors,
 Years of Experience = 4 years
 
 ![image](https://github.com/Pritam1729/Software_Engineer_Salary_Prediction/assets/106548018/de1c0944-0391-4e6e-b612-cb49b02c568f)
